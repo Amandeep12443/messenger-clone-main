@@ -26,7 +26,7 @@ This messenger app offers real-time messaging with a sleek UI design. It support
 ## Installation
 For the installation you can clone this project to your local computer.
 ```bash
-git clone 
+git clone https://github.com/Amandeep12443/messenger-clone-main
 ```
 
 Navigate to the project folder.
